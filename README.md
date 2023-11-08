@@ -30,10 +30,25 @@ you need to reinstall the package in conda environment, use the below command
   - easy to save the plots
 
 # sample plots
-![us_stock](https://github.com/arul637/Matplotlib/assets/95573091/6df8374f-3c56-40f9-b0c7-61656117c189)
-![weather_report](https://github.com/arul637/Matplotlib/assets/95573091/244d0cce-ed7e-4a7a-a149-b26608f3d0df)
-![weather report](https://github.com/arul637/Matplotlib/assets/95573091/0157524c-60ca-4163-a22f-50904443bd1b)
-![blood sugar level](https://github.com/arul637/Matplotlib/assets/95573091/4710505d-0244-4f68-b102-70fc75779a82)
-![pie](https://github.com/arul637/Matplotlib/assets/95573091/0186078d-1b7f-427e-9673-688e1e715d08)
+
+<br>
+
+## weather report
+### using (line plot/line chart)
+
+![weather](https://github.com/arul637/Matplotlib/assets/95573091/338a19ea-e688-4d1d-bdc4-29fe263a22cc)
+![weather1](https://github.com/arul637/Matplotlib/assets/95573091/d8fb4d38-9470-497b-b9a8-0d5d554e6c04)
+
+## stock report 
+### using (bar chart)
+
+![stock](https://github.com/arul637/Matplotlib/assets/95573091/03fc58e6-5fc8-43e4-ae73-06b24a16962e)
+
+## diabetics report
+### using (histogram plot)
+
+![diabetics](https://github.com/arul637/Matplotlib/assets/95573091/127d6410-9a56-48d0-85c4-60ed82d8a1a0)
+
+
 
 
